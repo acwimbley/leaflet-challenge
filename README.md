@@ -1,5 +1,7 @@
 # leaflet-challenge
 Module 15
+
+The files are under the Leaflet-Part 1.  I did not try the second part.
 This is another assignment that was difficult.  I used alot of what was presented in class.  I choose to illustrate earthquake data for 30 days.  I also decided to add various colors to show the magnitude of the earthquakes.  The colors are:
 Yellow <= 3.5
 Green <= 4.5
